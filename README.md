@@ -4,9 +4,6 @@ This repository is for collectting free, high quality, easy-accessed learning re
 Most of them could be traditional Chinese.
 
 ## Mixed
-### edX
-https://www.edx.org/
-### 
 
 ## Programming
 
@@ -17,10 +14,21 @@ https://www.hacker101.com
 https://www.hacksplaining.com
 
 ## MOOCs
+### edX
+> Free online courses from the world's best universities
+https://www.edx.org/
 
-## OCW
+### Coursera
+> Online Courses From Top Universities. Join for Free
+
+https://www.coursera.org
+
+## OCW (OpenCourseWare)
 ### MIT (Massachusetts Institute of Technology)
+> Free Online Course Materials
+
 https://ocw.mit.edu/
 
 ### NCTU (National Chiao Tung University)
 http://ocw.nctu.edu.tw
+
