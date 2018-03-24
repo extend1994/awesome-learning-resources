@@ -1,13 +1,23 @@
-Learning resources
+Learning resources: The websites with courses
 ===
-This repository is for collectting free, high quality, easy-accessed learning resources (if possible).
-Most of them could be traditional Chinese.
+Any issues or pull requests are welcome!
 
 ## Mixed
 
 ## Programming
 
 ## System
+### Common version control concept and Git
+English:
+- [Try Git](https://try.github.io/)
+- []()
+
+Traditional Chinese:
+- [Gitbook](https://gitbook.tw/)
+- [Git 研究教學站](http://dylandy.github.io/Easy-Git-Tutorial/)
+
+### System Administration
+- [NCTU course](https://nasa.cs.nctu.edu.tw/)
 
 ## Hacker
 https://www.hacker101.com
