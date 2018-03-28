@@ -5,6 +5,17 @@ Any issues or pull requests are welcome!
 ## Mixed
 
 ## Programming
+### Level up your coding skills by solving problems online
+- [exercism.io](http://www.exercism.io/languages): Practice having thoughtful conversations about code.
+- [CodinGame](https://www.codingame.com): Challenge-based training platform for programmers where you can improve your coding skills with fun exercises.
+- [Codewars](https://www.codewars.com/): Developers achieve code mastery through challenge.
+- [CodeFights](https://codefights.com/): Prepare for technical interviews & level up your coding skills.
+- [Code-Free](https://codefree.co/): Build real apps with the skills you already have.
+- [Codeplace](https://www.codeplace.com/): Learn Web Development from scratch by Building 4 Real Online Businesses in 3 Months.
+- [CheckiO](https://checkio.org/): Improve your coding skills by solving engaging challenges and fun task using Python and JavaScript.
+- [Code4Startup](https://code4startup.com/): https://js.checkio.org/station/library/ Learn Ruby on Rails, Python, AngularJS, NodeJS, React, Ionic by cloning AirBnb, TaskRabbit, Tinder, Product Hunt, Fiverr and ... more.
+- [LeetCode](https://leetcode.com/): The best place to expand your knowledge and get prepared for your next interview.
+- [HackerRank](https://www.hackerrank.com/): Solve code challenges to prepare for programming interviews. **With solutions**.
 
 ## System
 ### Common version control concept and Git
