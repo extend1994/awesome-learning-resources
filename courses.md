@@ -25,6 +25,10 @@ Any issues or pull requests are welcome!
 - [LeetCode](https://leetcode.com/): The best place to expand your knowledge and get prepared for your next interview.
 - [HackerRank](https://www.hackerrank.com/): Solve code challenges to prepare for programming interviews. **With solutions**.
 
+## Data Science
+- [DataCamp](https://www.datacamp.com/): Learn R, Python & Data Science Online
+- [Dataquest](https://www.dataquest.io/): Learn Data Science With Python And R Projects
+
 ## System
 ### Common version control concept and Git
 - English
