@@ -29,6 +29,10 @@ Any issues or pull requests are welcome!
 - [DataCamp](https://www.datacamp.com/): Learn R, Python & Data Science Online
 - [Dataquest](https://www.dataquest.io/): Learn Data Science With Python And R Projects
 
+## Web development
+- [W3Schools](https://www.w3schools.com/)
+- [Mozilla Developer Network Web Docs](https://developer.mozilla.org/): Resources for developers, by developers
+
 ## System
 ### Common version control concept and Git
 - English
