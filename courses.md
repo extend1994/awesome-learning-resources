@@ -1,18 +1,29 @@
 Learning resources: The websites with courses
 ===
-Any issues or pull requests are welcome!
-
 ## Mixed
-- [Udemy](https://www.udemy.com/): An online learning and teaching marketplace with over 65000 courses and 15 million students. Learn programming, marketing, data science and more
-  - Find coupons on https://www.facebook.com/softdevtools/ or search free cource on the site.
-- [Udacity](https://www.udacity.com/): Learn the latest in Deep Learning, Machine Learning, Web Development & more, with Nanodegree programs & free online course
-  - Find free courses using searching filter
-- [Khan Academy](https://www.khanacademy.org/): You can learn anything. Expert-created content and resources for every subject and level. Always free
-- [Highbrow](https://gohighbrow.com/courses/): A learning platform that delivers bite-sized courses straight to people's inboxes
-  - Pick TECH & CODING to find CS courses
-- [Code School](https://www.codeschool.com/): Learn to code in the comfort of your browser with video tutorials, programming challenges, & screencasts
+### MOOCs
+
+* [edX](https://www.edx.org/): Free online courses from the world's best universities
+* [Coursera](https://www.coursera.org): Online Courses From Top Universities. Join for Free
+
+### OCW (OpenCourseWare)
+
+* [MIT (Massachusetts Institute of Technology)](https://ocw.mit.edu/): Free Online Course Materials
+* [NCTU (National Chiao Tung University)](http://ocw.nctu.edu.tw)
+
+### Others
+
+* [Udemy](https://www.udemy.com/): An online learning and teaching marketplace with over 65000 courses and 15 million students. Learn programming, marketing, data science and more
+  * Find coupons on https://www.facebook.com/softdevtools/ or search free cource on the site.
+* [Udacity](https://www.udacity.com/): Learn the latest in Deep Learning, Machine Learning, Web Development & more, with Nanodegree programs & free online course
+  * Find free courses using searching filter
+* [Khan Academy](https://www.khanacademy.org/): You can learn anything. Expert-created content and resources for every subject and level. Always free
+* [Highbrow](https://gohighbrow.com/courses/): A learning platform that delivers bite-sized courses straight to people's inboxes
+  * Pick TECH & CODING to find CS courses
+* [Code School](https://www.codeschool.com/): Learn to code in the comfort of your browser with video tutorials, programming challenges, & screencasts
 
 ## Programming
+
 ### Level up your coding skills by solving problems online
 - [exercism.io](http://www.exercism.io/languages): Practice having thoughtful conversations about code.
 - [CodinGame](https://www.codingame.com): Challenge-based training platform for programmers where you can improve your coding skills with fun exercises.
@@ -47,25 +58,6 @@ Any issues or pull requests are welcome!
 ## Hacker
 https://www.hacker101.com
 https://www.hacksplaining.com
-
-## MOOCs
-### edX
-> Free online courses from the world's best universities
-https://www.edx.org/
-
-### Coursera
-> Online Courses From Top Universities. Join for Free
-
-https://www.coursera.org
-
-## OCW (OpenCourseWare)
-### MIT (Massachusetts Institute of Technology)
-> Free Online Course Materials
-
-https://ocw.mit.edu/
-
-### NCTU (National Chiao Tung University)
-http://ocw.nctu.edu.tw
 
 ## Others
 - [Class Central](https://www.class-central.com/): #1 Search Engine for Free Online Courses & MOOCs
