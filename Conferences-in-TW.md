@@ -9,6 +9,10 @@
 * [2016 錄影](https://www.youtube.com/watch?v=cSlc3_fiklk&list=PLqfib4St70XNS5OmlOC9Mx871JnPibsRA)
 * [2015 錄影](https://www.youtube.com/watch?v=9_Kuz0a-PdE&list=PLqfib4St70XPKGyuu3oMJlJ69s8wHnI-n)
 
+## [DSConf](http://datasci.tw/?conf=DS) 台灣資料科學年會
+
+* [台灣資料科學年會官方 SlideShare](https://www.slideshare.net/tw_dsconf/presentations)
+
 ## [Modern Web](https://modernweb.tw/)
 
 * [2018 共筆](https://hackmd.io/c/MW18)
