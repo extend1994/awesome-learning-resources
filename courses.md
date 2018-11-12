@@ -10,6 +10,7 @@ Learning resources: The websites with courses
 ### OCW (OpenCourseWare)
 
 - [MIT (Massachusetts Institute of Technology)](https://ocw.mit.edu/): Free Online Course Materials
+- [Stanford Online](https://online.stanford.edu/courses): Free online courses, online degrees, grad and professional certificates, e-learning, and open courses
 - [NCTU (National Chiao Tung University)](http://ocw.nctu.edu.tw)
 
 ### Other Online Platforms
@@ -21,9 +22,13 @@ Learning resources: The websites with courses
 - [Khan Academy](https://www.khanacademy.org/): You can learn anything. Expert-created content and resources for every subject and level. Always free
 - [Highbrow](https://gohighbrow.com/courses/): A learning platform that delivers bite-sized courses straight to people's inboxes
   - Pick TECH & CODING to find CS courses
+- **[freeCodeCamp](https://www.freecodecamp.org/)**: Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
+- **[Egghead](https://egghead.io/)**: Video tutorials that cover the best tools, libraries, and frameworks
+- **[Katacoda](https://www.katacoda.com/learn)**: Interactive Learning Platform for Software Engineers
+  - Lots of container/cloud related cources
+- [Codecademy](https://www.codecademy.com): Learn to Code - for Free
 
 ## Programming
-
 ### Level up your coding skills by solving problems online
 - [exercism.io](http://www.exercism.io/languages): Practice having thoughtful conversations about code.
 - [CodinGame](https://www.codingame.com): Challenge-based training platform for programmers where you can improve your coding skills with fun exercises.
