@@ -1,26 +1,26 @@
 Learning resources: The websites with courses
 ===
-## Mixed
+## Comprehensive Topics
+
 ### MOOCs
 
-* [edX](https://www.edx.org/): Free online courses from the world's best universities
-* [Coursera](https://www.coursera.org): Online Courses From Top Universities. Join for Free
+- [edX](https://www.edx.org/): Free online courses from the world's best universities
+- [Coursera](https://www.coursera.org): Online Courses From Top Universities. Join for Free
 
 ### OCW (OpenCourseWare)
 
-* [MIT (Massachusetts Institute of Technology)](https://ocw.mit.edu/): Free Online Course Materials
-* [NCTU (National Chiao Tung University)](http://ocw.nctu.edu.tw)
+- [MIT (Massachusetts Institute of Technology)](https://ocw.mit.edu/): Free Online Course Materials
+- [NCTU (National Chiao Tung University)](http://ocw.nctu.edu.tw)
 
-### Others
+### Other Online Platforms
 
-* [Udemy](https://www.udemy.com/): An online learning and teaching marketplace with over 65000 courses and 15 million students. Learn programming, marketing, data science and more
-  * Find coupons on https://www.facebook.com/softdevtools/ or search free cource on the site.
-* [Udacity](https://www.udacity.com/): Learn the latest in Deep Learning, Machine Learning, Web Development & more, with Nanodegree programs & free online course
-  * Find free courses using searching filter
-* [Khan Academy](https://www.khanacademy.org/): You can learn anything. Expert-created content and resources for every subject and level. Always free
-* [Highbrow](https://gohighbrow.com/courses/): A learning platform that delivers bite-sized courses straight to people's inboxes
-  * Pick TECH & CODING to find CS courses
-* [Code School](https://www.codeschool.com/): Learn to code in the comfort of your browser with video tutorials, programming challenges, & screencasts
+- [Udemy](https://www.udemy.com/): An online learning and teaching marketplace with over 65000 courses and 15 million students. Learn programming, marketing, data science and more
+  - Find coupons on https://www.facebook.com/softdevtools/ or search free cource on the site.
+- [Udacity](https://www.udacity.com/): Learn the latest in Deep Learning, Machine Learning, Web Development & more, with Nanodegree programs & free online course
+  - Find free courses using searching filter
+- [Khan Academy](https://www.khanacademy.org/): You can learn anything. Expert-created content and resources for every subject and level. Always free
+- [Highbrow](https://gohighbrow.com/courses/): A learning platform that delivers bite-sized courses straight to people's inboxes
+  - Pick TECH & CODING to find CS courses
 
 ## Programming
 
