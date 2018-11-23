@@ -54,15 +54,23 @@ Learning resources: The websites with courses
 * [為你自己學 Ruby on Rails](https://railsbook.tw/)
 
 ## Data Science
+
 - [DataCamp](https://www.datacamp.com/): Learn R, Python & Data Science Online
 - [Dataquest](https://www.dataquest.io/): Learn Data Science With Python And R Projects
+- [Cognitive Class](https://cognitiveclass.ai/): Free Data Science and Cognitive Computing Courses
 
 ## Web development
-- [W3Schools](https://www.w3schools.com/)
+
+- [W3Schools](https://www.w3schools.com/): Online Web Tutorials
 - [Mozilla Developer Network Web Docs](https://developer.mozilla.org/): Resources for developers, by developers
+- [Aquent Gymnasium](https://thegymnasium.com): Gymnasium offers free online courses on web development, design, user experience, and content.
+- **[Upcase by thoughtbot](https://thoughtbot.com/upcase)**: Learn Web Development Online
+- **[SitePoint](https://www.sitepoint.com/)**: Learn Web Design & Development with *SitePoint* tutorials, courses and books
 
 ## System
+
 ### Common version control concept and Git
+
 - English
   - [Try Git](https://try.github.io/)
 - Traditional Chinese:
@@ -70,11 +78,15 @@ Learning resources: The websites with courses
   - [Git 研究教學站](http://dylandy.github.io/Easy-Git-Tutorial/)
 
 ### System Administration
+
 - [NCTU course](https://nasa.cs.nctu.edu.tw/)
 
-## Hacker
-https://www.hacker101.com
-https://www.hacksplaining.com
+## Hacker/Security
+
+- **[Codebashing](https://free.codebashing.com)**: Application security training by your favorite programming languages
+- [Bamboofox](https://bamboofox.cs.nctu.edu.tw): 由台灣國立交通大學資工系多個組織所共同組成，希望大家可以學習到資訊安全的知識
+- [Hacksplaining](https://www.hacksplaining.com): Learn how to protect yourself with real, up-to-date code samples
+- [Hacker101](https://www.hacker101.com): Free class for web security
 
 ## Others
 - [Class Central](https://www.class-central.com/): #1 Search Engine for Free Online Courses & MOOCs
