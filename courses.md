@@ -27,6 +27,7 @@ Learning resources: The websites with courses
 - **[Katacoda](https://www.katacoda.com/learn)**: Interactive Learning Platform for Software Engineers
   - Lots of container/cloud related cources
 - [Codecademy](https://www.codecademy.com): Learn to Code - for Free
+- [Oswd](http://www.oswd.org/): Is a platform for sharing standards-compliant free web design templates.
 
 ## Programming
 
