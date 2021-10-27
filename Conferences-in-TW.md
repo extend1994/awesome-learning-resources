@@ -5,6 +5,9 @@
 
 ## [COSCUP](https://coscup.org) 開源人年會
 
+* [2021 共筆](https://hackmd.io/@coscup/2021/)
+* [2020 共筆](https://hackmd.io/@coscup/2020/)
+* [2019 共筆](https://hackmd.io/@coscup/2019/)
 * [2017 共筆/影片目錄頁](https://docs.google.com/document/d/1ejQ3XMUeXom1OysM16MFcdMnXiCRj0mh-9AOTA9IYIU/edit)
 * [2016 錄影](https://www.youtube.com/watch?v=cSlc3_fiklk&list=PLqfib4St70XNS5OmlOC9Mx871JnPibsRA)
 * [2015 錄影](https://www.youtube.com/watch?v=9_Kuz0a-PdE&list=PLqfib4St70XPKGyuu3oMJlJ69s8wHnI-n)
