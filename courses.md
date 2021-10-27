@@ -63,6 +63,7 @@ Learning resources: The websites with courses
 
 - [W3Schools](https://www.w3schools.com/): Online Web Tutorials
 - [Tutorialsteacher](https://www.tutorialsteacher.com/): Learn Web Technologies. Learn C#, LINQ, ASP.NET MVC, .NET Core, jQuery, JavaScript, and many more.
+- [Web.dev](https://web.dev/): Help developers learn and apply the latest web technologies to their own websites or applications.
 - [Mozilla Developer Network Web Docs](https://developer.mozilla.org/): Resources for developers, by developers
 - [Aquent Gymnasium](https://thegymnasium.com): Gymnasium offers free online courses on web development, design, user experience, and content.
 - **[Upcase by thoughtbot](https://thoughtbot.com/upcase)**: Learn Web Development Online
