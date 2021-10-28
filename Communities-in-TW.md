@@ -11,3 +11,8 @@
   * [活動投影片](https://github.com/TGmeetup/TWcommunities/blob/master/communities/DigitalOceanHsinchu.md#活動投影片)
 * Golang Taiwan
   * [活動投影片/影片](https://github.com/golangtw/GolangTaiwanGathering#detail-meetup-website)
+* PyLadies Taiwan
+  * [官方網站](https://tw.pyladies.com)
+  * [活動列表](https://tw.pyladies.com/eventlist/index.html?m=false)
+  * [技術文章](https://github.com/golangtw/GolangTaiwanGathering#detail-meetup-website)
+* [Rails Girls](http://railsgirls.com)
