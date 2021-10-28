@@ -45,6 +45,8 @@ Learning resources: The websites with courses
 
 ### Interactive Tutorial
 
+- [Full stack open](http://fullstackopen.com): Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!
+
 ### Node.js
 
 * [NodeSchool](https://nodeschool.io/): Open source workshops that teach web software skills
@@ -59,7 +61,7 @@ Learning resources: The websites with courses
 - [Dataquest](https://www.dataquest.io/): Learn Data Science With Python And R Projects
 - [Cognitive Class](https://cognitiveclass.ai/): Free Data Science and Cognitive Computing Courses
 
-## Web development
+## Web Development
 
 - [W3Schools](https://www.w3schools.com/): Online Web Tutorials
 - [Tutorialsteacher](https://www.tutorialsteacher.com/): Learn Web Technologies. Learn C#, LINQ, ASP.NET MVC, .NET Core, jQuery, JavaScript, and many more.
@@ -68,6 +70,9 @@ Learning resources: The websites with courses
 - [Aquent Gymnasium](https://thegymnasium.com): Gymnasium offers free online courses on web development, design, user experience, and content.
 - **[Upcase by thoughtbot](https://thoughtbot.com/upcase)**: Learn Web Development Online
 - **[SitePoint](https://www.sitepoint.com/)**: Learn Web Design & Development with *SitePoint* tutorials, courses and books
+- [MarkSheet](https://marksheet.io/): a free HTML and CSS tutorial.
+- [JavaScript.Info](https://javascript.info/): The Modern JavaScript Tutorial.
+- [React Express](https://www.react.express/): Express to learn React.
 
 ## System
 
