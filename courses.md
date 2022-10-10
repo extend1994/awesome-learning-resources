@@ -27,6 +27,8 @@ Learning resources: The websites with courses
 - **[Katacoda](https://www.katacoda.com/learn)**: Interactive Learning Platform for Software Engineers
   - Lots of container/cloud related cources
 - [Codecademy](https://www.codecademy.com): Learn to Code - for Free
+- [Programiz](https://www.programiz.com): Learn to Code for Free
+- [GeeksforGeeks](https://www.geeksforgeeks.org/): A computer science portal for geeks
 
 ## Programming
 
@@ -59,16 +61,17 @@ Learning resources: The websites with courses
 - [一小時Python入門](https://kopu.chat/%e4%b8%80%e5%b0%8f%e6%99%82python%e5%85%a5%e9%96%80-part-1/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
   - [Django Girls Tutorial - 台灣翻譯](https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/)
-- [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
-- [Python Tutorial: Learn Python Programming](https://pythonbasics.org/)
+- [Learn Python](https://www.learnpython.org/): Free Interactive Python Tutorial
+- [Python Tutorial](https://pythonbasics.org/): Learn Python Programming
 - [pythonprogramming.net](https://pythonprogramming.net/)
-- [Real Python: Python Tutorials](https://realpython.com/)
+- [Real Python](https://realpython.com/): Python Tutorials
 
 ## Data Science
 
 - [DataCamp](https://www.datacamp.com/): Learn R, Python & Data Science Online
 - [Dataquest](https://www.dataquest.io/): Learn Data Science With Python And R Projects
 - [Cognitive Class](https://cognitiveclass.ai/): Free Data Science and Cognitive Computing Courses
+- [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/learn): Gain the skills you need to do independent data science projects. 
 
 ## Web Development
 
