@@ -55,6 +55,11 @@ Learning resources: The websites with courses
 
 * [為你自己學 Ruby on Rails](https://railsbook.tw/)
 
+### Python & Django
+- [一小時Python入門](https://kopu.chat/%e4%b8%80%e5%b0%8f%e6%99%82python%e5%85%a5%e9%96%80-part-1/)
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+  - [Django Girls Tutorial - 台灣翻譯](https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/)
+
 ## Data Science
 
 - [DataCamp](https://www.datacamp.com/): Learn R, Python & Data Science Online
@@ -64,6 +69,7 @@ Learning resources: The websites with courses
 ## Web Development
 
 - [W3Schools](https://www.w3schools.com/): Online Web Tutorials
+  - [Django Tutorial](https://www.w3schools.com/django/index.php)
 - [Tutorialsteacher](https://www.tutorialsteacher.com/): Learn Web Technologies. Learn C#, LINQ, ASP.NET MVC, .NET Core, jQuery, JavaScript, and many more.
 - [Web.dev](https://web.dev/): Help developers learn and apply the latest web technologies to their own websites or applications.
 - [Mozilla Developer Network Web Docs](https://developer.mozilla.org/): Resources for developers, by developers
