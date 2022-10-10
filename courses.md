@@ -59,6 +59,10 @@ Learning resources: The websites with courses
 - [一小時Python入門](https://kopu.chat/%e4%b8%80%e5%b0%8f%e6%99%82python%e5%85%a5%e9%96%80-part-1/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
   - [Django Girls Tutorial - 台灣翻譯](https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/)
+- [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
+- [Python Tutorial: Learn Python Programming](https://pythonbasics.org/)
+- [pythonprogramming.net](https://pythonprogramming.net/)
+- [Real Python: Python Tutorials](https://realpython.com/)
 
 ## Data Science
 
